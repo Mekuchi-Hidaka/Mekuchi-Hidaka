@@ -20,6 +20,8 @@
 
 ### ⚡ Fun Fact
 - I love solving coding challenges on platforms like **LeetCode** and **HackerRank** in my free time.
+- I am mad about **Desi Hip Hip music** genre and Lengendary **Linkin Park**.
+- Here's my DHH playlist: https://open.spotify.com/playlist/4vy8lhco9u6CaRiCmKf8Tr?si=de3118b7b6e74ee1
 
 ---
 
